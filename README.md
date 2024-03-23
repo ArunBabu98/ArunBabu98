@@ -30,7 +30,7 @@ Greetings, fellow tech aficionados! I am Arun Babu, a blockchain developer with 
 ## Let's Connect & Collaborate 🌐
 
 📧 Feel free to reach out via email at [1runx3na@gmail.com](mailto:1runx3na@gmail.com)  
-🔗 Connect with me on [LinkedIn]([https://www.linkedin.com/in/yourlinkedin](https://www.linkedin.com/in/arun-babu-370ab41bb/)) to explore potential synergies  
-🌐 Discover technical articles by me on [MEDIUM]([https://www.arunbabu.com](https://medium.com/@1runx3na))  
+🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/arun-babu-370ab41bb/) to explore potential synergies  
+🌐 Discover technical articles by me on [MEDIUM](https://medium.com/@1runx3na) 
 
 Together, let us embark on a voyage of innovation and technological excellence! 🌟🚀
