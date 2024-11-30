@@ -4,7 +4,7 @@ Greetings, fellow tech aficionados! I am Arun Babu, a blockchain developer with 
 
 ## About Me 🌟
 
-- 💼 **Current Position:** Co-Founder and Lead Developer at TenshiLabs (since 2024).
+- 💼 **Current Position:** Co-Founder and CTO at TenshiLabs (since 2024).
 - 🎓 **Educational Background:** Bachelor's degree in Computer Science and Engineering.
 - 🏆 **Certifications:** Ethical Hacker certified by ECCouncil.
 - 💻 **Freelancing Roots:** Commenced professional journey in 2020, adeptly maneuvering Django, Node.js/React, and WordPress.
